@@ -1,0 +1,15 @@
+C:\GitWorkspace\helloworld\dotnet\Starter\HelloWorld\output\HelloWorld.exe
+C:\GitWorkspace\helloworld\dotnet\Starter\HelloWorld\output\HelloWorld.deps.json
+C:\GitWorkspace\helloworld\dotnet\Starter\HelloWorld\output\HelloWorld.runtimeconfig.json
+C:\GitWorkspace\helloworld\dotnet\Starter\HelloWorld\output\HelloWorld.dll
+C:\GitWorkspace\helloworld\dotnet\Starter\HelloWorld\output\HelloWorld.pdb
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld.exe
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld.deps.json
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld.runtimeconfig.json
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld.dll
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld.pdb
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld\HelloWorld.exe
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld\HelloWorld.deps.json
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld\HelloWorld.runtimeconfig.json
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld\HelloWorld.dll
+C:\GitWorkspace\helloworld\dotnet\Starter\output\HelloWorld\HelloWorld.pdb
